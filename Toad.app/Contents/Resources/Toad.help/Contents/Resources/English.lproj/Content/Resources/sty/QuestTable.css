@@ -1,0 +1,449 @@
+/* MadCap Table Style: */
+
+/*<meta />*/
+
+mcTableStyle {
+	name: QuestTable; 
+	border-collapse: collapse; 
+	border-left-style: solid; 
+	border-left-width: 1px; 
+	border-left-color: #b5b5b5; 
+	border-right-style: solid; 
+	border-right-width: 1px; 
+	border-right-color: #b5b5b5; 
+	border-top-style: solid; 
+	border-top-width: 1px; 
+	border-top-color: #b5b5b5; 
+	border-bottom-style: solid; 
+	border-bottom-width: 1px; 
+	border-bottom-color: #b5b5b5; 
+	border-spacing-y: 0; 
+	border-spacing-x: 0; 
+	cell-padding-left: 10px; 
+	cell-padding-right: 10px; 
+	cell-padding-top: 6px; 
+	cell-padding-bottom: 6px; 
+	margin-left: 0px; 
+	margin-bottom: 10px; 
+	margin-top: 10px; 
+}
+
+mcTableColumnStyle {
+	span: 1; 
+	separator-style: solid; 
+	separator-width: 1px; 
+	separator-color: #b5b5b5; 
+	vertical-align: top; 
+	text-align: left; 
+}
+
+mcTableHeadStyle {
+	span: 1; 
+	separator-style: solid; 
+	separator-width: 1px; 
+	separator-color: #b5b5b5; 
+	background-color: #d5e3e3; 
+	font-weight: bold; 
+	font-style: normal; 
+	text-align: left; 
+	vertical-align: top; 
+}
+
+mcTableBodyStyle {
+	span: 1; 
+	font-weight: normal; 
+	separator-style: solid; 
+	separator-width: 1px; 
+	separator-color: #b5b5b5; 
+	text-align: left; 
+	vertical-align: top; 
+	background-color: #eaf2f2; 
+}
+
+ 
+ 
+/* Cell Styles: */
+ 
+.TableStyle_QuestTable
+{
+	border-left-style: solid;
+	border-left-color: #b5b5b5;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #b5b5b5;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #b5b5b5;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #b5b5b5;
+	border-bottom-width: 1px;
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-collapse: collapse;
+	border-spacing: 0px 0px;
+	mc-cell-padding: 6px 10px 6px 10px;
+}
+
+.TableStyle_QuestTable_Head_0_0
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Head_0_0 p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowSep_ColSep
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	border-bottom-width: 1px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-right-width: 1px;
+	border-right-color: #b5b5b5;
+	border-right-style: solid;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowSep_ColSep p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowSep
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	border-bottom-width: 1px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowSep p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_ColSep
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-right-width: 1px;
+	border-right-color: #b5b5b5;
+	border-right-style: solid;
+}
+
+.TableStyle_QuestTable_Head_0_0_ColSep p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowSep_ColEnd
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	border-bottom-width: 1px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowSep_ColEnd p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowEnd
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowEnd p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowEnd_ColSep
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-right-width: 1px;
+	border-right-color: #b5b5b5;
+	border-right-style: solid;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowEnd_ColSep p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowEnd_ColEnd
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Head_0_0_RowEnd_ColEnd p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Head_0_0_ColEnd
+{
+	font-weight: bold;
+	font-style: normal;
+	background-color: #d5e3e3;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Head_0_0_ColEnd p
+{
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Body_0_0 p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowSep_ColSep
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	border-bottom-width: 1px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-right-width: 1px;
+	border-right-color: #b5b5b5;
+	border-right-style: solid;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowSep_ColSep p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowSep
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	border-bottom-width: 1px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowSep p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_ColSep
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-right-width: 1px;
+	border-right-color: #b5b5b5;
+	border-right-style: solid;
+}
+
+.TableStyle_QuestTable_Body_0_0_ColSep p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowSep_ColEnd
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	border-bottom-width: 1px;
+	border-bottom-color: #b5b5b5;
+	border-bottom-style: solid;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowSep_ColEnd p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowEnd
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowEnd p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowEnd_ColSep
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	border-right-width: 1px;
+	border-right-color: #b5b5b5;
+	border-right-style: solid;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowEnd_ColSep p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowEnd_ColEnd
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Body_0_0_RowEnd_ColEnd p
+{
+	font-weight: normal;
+}
+
+.TableStyle_QuestTable_Body_0_0_ColEnd
+{
+	font-weight: normal;
+	background-color: #eaf2f2;
+	text-align: left;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.TableStyle_QuestTable_Body_0_0_ColEnd p
+{
+	font-weight: normal;
+}
+
+
